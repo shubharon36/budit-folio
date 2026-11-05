@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Marquee from './components/Marquee';
 import Philosophy from './components/Philosophy';
-import Gallery from './components/Gallery';
+// import Gallery from './components/Gallery';
 import LeadEngine from './components/LeadEngine';
 import SuccessStories from './components/SuccessStories';
 import Founder from './components/Founder';
@@ -43,7 +43,7 @@ function App() {
       <Hero />
       <Marquee />
       <Philosophy />
-      <Gallery />
+      {/* <Gallery /> */}
       <LeadEngine />
       <SuccessStories />
       <Founder />
